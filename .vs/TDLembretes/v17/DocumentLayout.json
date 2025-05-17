@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\repositories\\tarefapersonalizadarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\repositories\\tarefapersonalizadarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\services\\tarefapersonalizadaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\services\\tarefapersonalizadaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\models\\tarefapersonalizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\models\\tarefapersonalizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\dto\\atualizartarefapersonalizadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\dto\\atualizartarefapersonalizadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\dto\\tarefapersonalizadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\dto\\tarefapersonalizadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\controllers\\criartarefapersonalizadacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\controllers\\criartarefapersonalizadacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\models\\tarefapersonalizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\models\\tarefapersonalizada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\repositories\\tarefapersonalizadarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\repositories\\tarefapersonalizadarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\dto\\atualizartarefapersonalizadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|solutionrelative:tdlembretes\\dto\\atualizartarefapersonalizadadto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A7D8E7A0-B69A-4C25-A011-F4E3F6F625EE}|TDLembretes\\TDLembretes.csproj|c:\\users\\user\\desktop\\tdlembretes_back-end-main\\tdlembretes\\repositories\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -114,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
@@ -131,46 +131,98 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TarefaPersonalizadaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\DTO\\TarefaPersonalizadaDTO.cs",
+              "RelativeDocumentMoniker": "TDLembretes\\DTO\\TarefaPersonalizadaDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\DTO\\TarefaPersonalizadaDTO.cs",
+              "RelativeToolTip": "TDLembretes\\DTO\\TarefaPersonalizadaDTO.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:37:36.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "TarefaPersonalizada.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Models\\TarefaPersonalizada.cs",
-              "RelativeDocumentMoniker": "TDLembretes\\Models\\TarefaPersonalizada.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Models\\TarefaPersonalizada.cs",
-              "RelativeToolTip": "TDLembretes\\Models\\TarefaPersonalizada.cs",
-              "ViewState": "AQIAAAUAAAAAAAAAAAAxwD4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-17T17:10:48.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "CriarTarefaPersonalizadaController.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Controllers\\CriarTarefaPersonalizadaController.cs",
-              "RelativeDocumentMoniker": "TDLembretes\\Controllers\\CriarTarefaPersonalizadaController.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Controllers\\CriarTarefaPersonalizadaController.cs",
-              "RelativeToolTip": "TDLembretes\\Controllers\\CriarTarefaPersonalizadaController.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAA5wB4AAAB8AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T17:47:50.177Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "TarefaPersonalizadaService.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Services\\TarefaPersonalizadaService.cs",
               "RelativeDocumentMoniker": "TDLembretes\\Services\\TarefaPersonalizadaService.cs",
               "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Services\\TarefaPersonalizadaService.cs",
               "RelativeToolTip": "TDLembretes\\Services\\TarefaPersonalizadaService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-04T17:39:54.273Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Program.cs",
+              "RelativeDocumentMoniker": "TDLembretes\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Program.cs",
+              "RelativeToolTip": "TDLembretes\\Program.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAAAKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T20:41:25.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TarefaPersonalizadaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Repositories\\TarefaPersonalizadaRepository.cs",
+              "RelativeDocumentMoniker": "TDLembretes\\Repositories\\TarefaPersonalizadaRepository.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Repositories\\TarefaPersonalizadaRepository.cs",
+              "RelativeToolTip": "TDLembretes\\Repositories\\TarefaPersonalizadaRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:23:48.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AtualizarTarefaPersonalizadaDTO.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\DTO\\AtualizarTarefaPersonalizadaDTO.cs",
+              "RelativeDocumentMoniker": "TDLembretes\\DTO\\AtualizarTarefaPersonalizadaDTO.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\DTO\\AtualizarTarefaPersonalizadaDTO.cs",
+              "RelativeToolTip": "TDLembretes\\DTO\\AtualizarTarefaPersonalizadaDTO.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA1wBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-05T06:23:37.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CriarTarefaPersonalizadaController.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Controllers\\CriarTarefaPersonalizadaController.cs",
+              "RelativeDocumentMoniker": "TDLembretes\\Controllers\\CriarTarefaPersonalizadaController.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Controllers\\CriarTarefaPersonalizadaController.cs",
+              "RelativeToolTip": "TDLembretes\\Controllers\\CriarTarefaPersonalizadaController.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAGoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-04T17:47:50.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TarefaPersonalizada.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Models\\TarefaPersonalizada.cs",
+              "RelativeDocumentMoniker": "TDLembretes\\Models\\TarefaPersonalizada.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Models\\TarefaPersonalizada.cs",
+              "RelativeToolTip": "TDLembretes\\Models\\TarefaPersonalizada.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAkwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-17T17:10:48.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "TDLembretes\\Models\\Usuario.cs",
@@ -178,60 +230,7 @@
               "RelativeToolTip": "TDLembretes\\Models\\Usuario.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T19:32:06.463Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "TarefaPersonalizadaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\DTO\\TarefaPersonalizadaDTO.cs",
-              "RelativeDocumentMoniker": "TDLembretes\\DTO\\TarefaPersonalizadaDTO.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\DTO\\TarefaPersonalizadaDTO.cs",
-              "RelativeToolTip": "TDLembretes\\DTO\\TarefaPersonalizadaDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T17:37:36.827Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Program.cs",
-              "RelativeDocumentMoniker": "TDLembretes\\Program.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Program.cs",
-              "RelativeToolTip": "TDLembretes\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAYwKUAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-11T20:41:25.293Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "TarefaPersonalizadaRepository.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Repositories\\TarefaPersonalizadaRepository.cs",
-              "RelativeDocumentMoniker": "TDLembretes\\Repositories\\TarefaPersonalizadaRepository.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\Repositories\\TarefaPersonalizadaRepository.cs",
-              "RelativeToolTip": "TDLembretes\\Repositories\\TarefaPersonalizadaRepository.cs",
-              "ViewState": "AQIAAAgAAAAAAAAAAAAQwA8AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-04T17:23:48.727Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "AtualizarTarefaPersonalizadaDTO.cs",
-              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\DTO\\AtualizarTarefaPersonalizadaDTO.cs",
-              "RelativeDocumentMoniker": "TDLembretes\\DTO\\AtualizarTarefaPersonalizadaDTO.cs",
-              "ToolTip": "C:\\Users\\USER\\Desktop\\TDLembretes_Back-end-main\\TDLembretes\\DTO\\AtualizarTarefaPersonalizadaDTO.cs",
-              "RelativeToolTip": "TDLembretes\\DTO\\AtualizarTarefaPersonalizadaDTO.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-05T06:23:37.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T19:32:06.463Z"
             },
             {
               "$type": "Document",
@@ -243,8 +242,7 @@
               "RelativeToolTip": "TDLembretes\\Repositories\\Data\\SeedData.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAQwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T18:25:24.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T18:25:24.552Z"
             },
             {
               "$type": "Document",
@@ -256,8 +254,7 @@
               "RelativeToolTip": "TDLembretes\\Properties\\launchSettings.json",
               "ViewState": "AQIAAAIAAAAAAAAAAAAwwBgAAAAvAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-17T16:22:39.509Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-17T16:22:39.509Z"
             },
             {
               "$type": "Document",

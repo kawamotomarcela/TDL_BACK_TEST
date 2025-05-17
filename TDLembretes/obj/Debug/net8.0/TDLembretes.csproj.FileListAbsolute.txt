@@ -482,3 +482,4 @@ C:\Users\USER\Desktop\TDLembretes_Back-end-main\TDLembretes\obj\Debug\net8.0\ref
 C:\Users\USER\Desktop\TDLembretes_Back-end-main\TDLembretes\obj\Debug\net8.0\TDLembretes.pdb
 C:\Users\USER\Desktop\TDLembretes_Back-end-main\TDLembretes\obj\Debug\net8.0\TDLembretes.genruntimeconfig.cache
 C:\Users\USER\Desktop\TDLembretes_Back-end-main\TDLembretes\obj\Debug\net8.0\ref\TDLembretes.dll
+C:\Users\USER\Desktop\TDLembretes_Back-end-main\TDLembretes\obj\Debug\net8.0\TDLembretes.sourcelink.json

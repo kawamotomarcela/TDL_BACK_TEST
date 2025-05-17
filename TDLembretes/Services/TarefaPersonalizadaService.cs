@@ -22,7 +22,7 @@ namespace TDLembretes.Services
                 throw new ArgumentException("Todos os campos devem ser preenchidos corretamente!");
             }
 
-            var novaTarefaPersonalizada = new TarefaPersonalizada(
+            var novaTarefa = new TarefaPersonalizada(
                 Guid.NewGuid().ToString(),
                 dto.Titulo,
                 dto.Descricao,
@@ -33,9 +33,9 @@ namespace TDLembretes.Services
                 dto.AlarmeAtivado
             );
 
-            await _tarefaPersonalizadaRepository.AddTarefaPersonalizada(novaTarefaPersonalizada);
+            await _tarefaPersonalizadaRepository.AddTarefaPersonalizada(novaTarefa);
 
-            return novaTarefaPersonalizada; 
+            return novaTarefa;
         }
 
         public async Task UpdateTarefaPersonalizada(string id, AtualizarTarefaPersonalizadaDTO dto)
@@ -46,8 +46,8 @@ namespace TDLembretes.Services
 
             tarefa.Titulo = dto.Titulo;
             tarefa.Descricao = dto.Descricao;
-            tarefa.Prioridade = dto.Prioridade;
             tarefa.DataFinalizacao = dto.DataFinalizacao;
+            tarefa.Prioridade = dto.Prioridade;
             tarefa.Status = dto.Status;
 
             await _tarefaPersonalizadaRepository.UpdateTarefaPersonalizada(tarefa);
@@ -62,14 +62,19 @@ namespace TDLembretes.Services
             await _tarefaPersonalizadaRepository.DeleteTarefaPersonalizada(tarefa);
         }
 
-        private async Task<TarefaPersonalizada?> GetTarefaPersonalizada(string id)
+        public async Task<TarefaPersonalizada?> BuscarPorId(string id)
         {
             return await _tarefaPersonalizadaRepository.GetTarefaPersonalizada(id);
         }
 
+        public async Task SalvarAlteracoes(TarefaPersonalizada tarefa)
+        {
+            await _tarefaPersonalizadaRepository.UpdateTarefaPersonalizada(tarefa);
+        }
+
         public async Task<TarefaPersonalizada> GetTarefaPersonalizadaOrThrowException(string id)
         {
-            var tarefa = await GetTarefaPersonalizada(id);
+            var tarefa = await BuscarPorId(id);
             if (tarefa == null)
                 throw new Exception("Tarefa não encontrada.");
 
