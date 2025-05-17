@@ -25,6 +25,11 @@ namespace TDLembretes.Repositories
                 .FirstOrDefaultAsync(t => t.Id == id);
         }
 
+        public async Task<List<TarefaPersonalizada>> GetTodas()
+        {
+            return await _context.TarefasPersonalizada.ToListAsync();
+        }
+
         public async Task UpdateTarefaPersonalizada(TarefaPersonalizada tarefa)
         {
             _context.TarefasPersonalizada.Update(tarefa);

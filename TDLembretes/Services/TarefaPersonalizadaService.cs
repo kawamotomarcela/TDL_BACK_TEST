@@ -34,7 +34,6 @@ namespace TDLembretes.Services
             );
 
             await _tarefaPersonalizadaRepository.AddTarefaPersonalizada(novaTarefa);
-
             return novaTarefa;
         }
 
@@ -67,11 +66,6 @@ namespace TDLembretes.Services
             return await _tarefaPersonalizadaRepository.GetTarefaPersonalizada(id);
         }
 
-        public async Task SalvarAlteracoes(TarefaPersonalizada tarefa)
-        {
-            await _tarefaPersonalizadaRepository.UpdateTarefaPersonalizada(tarefa);
-        }
-
         public async Task<TarefaPersonalizada> GetTarefaPersonalizadaOrThrowException(string id)
         {
             var tarefa = await BuscarPorId(id);
@@ -79,6 +73,30 @@ namespace TDLembretes.Services
                 throw new Exception("Tarefa não encontrada.");
 
             return tarefa;
+        }
+
+        public async Task SalvarAlteracoes(TarefaPersonalizada tarefa)
+        {
+            await _tarefaPersonalizadaRepository.UpdateTarefaPersonalizada(tarefa);
+        }
+
+        public async Task<List<TarefaPersonalizada>> ObterTodasComExpiradasAtualizadas()
+        {
+            var tarefas = await _tarefaPersonalizadaRepository.GetTodas();
+            var agora = DateTime.UtcNow;
+
+            foreach (var tarefa in tarefas)
+            {
+                if (tarefa.DataFinalizacao < agora &&
+                    tarefa.Status != StatusTarefa.Concluida &&
+                    tarefa.Status != StatusTarefa.Expirada)
+                {
+                    tarefa.Status = StatusTarefa.Expirada;
+                    await _tarefaPersonalizadaRepository.UpdateTarefaPersonalizada(tarefa);
+                }
+            }
+
+            return tarefas;
         }
     }
 }

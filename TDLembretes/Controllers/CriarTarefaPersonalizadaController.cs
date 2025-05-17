@@ -22,10 +22,12 @@ namespace TDLembretes.Controllers
             _context = context;
         }
 
+        // ✅ Alterado para verificar expiradas automaticamente
         [HttpGet]
         public async Task<ActionResult<IEnumerable<TarefaPersonalizada>>> GetTarefas()
         {
-            return await _context.TarefasPersonalizada.ToListAsync();
+            var tarefas = await _tarefaPersonalizadaService.ObterTodasComExpiradasAtualizadas();
+            return Ok(tarefas);
         }
 
         [HttpPost]
@@ -71,6 +73,7 @@ namespace TDLembretes.Controllers
                 return NotFound(new { Message = ex.Message });
             }
         }
+
         [HttpPut("{id}/toggle")]
         [ProducesResponseType(typeof(TarefaPersonalizada), 200)]
         [ProducesResponseType(400)]
