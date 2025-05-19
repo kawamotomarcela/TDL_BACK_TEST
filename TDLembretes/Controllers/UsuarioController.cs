@@ -46,7 +46,7 @@ namespace TDLembretes.Controllers
         }
 
         [HttpPut("{id}")]
-        public async Task<ActionResult> AtualizarUsuario(string id, [FromBody] UsuarioDTO dto)
+        public async Task<ActionResult> AtualizarUsuario(string id, [FromBody] AtualizarUsuarioDTO dto)
         {
             try
             {
@@ -55,7 +55,7 @@ namespace TDLembretes.Controllers
             }
             catch (Exception ex)
             {
-                return NotFound(ex.Message);
+                return BadRequest(ex.Message);
             }
         }
 

@@ -34,20 +34,27 @@ namespace TDLembretes.Services
             return usuario;
         }
 
-        public async Task AtualizarUsuario(string id, UsuarioDTO dto)
+        public async Task AtualizarUsuario(string id, AtualizarUsuarioDTO dto)
         {
             Usuario? usuario = await _usuarioRepository.GetUsuario(id);
 
             if (usuario == null)
-                throw new Exception("Usuário não não encontrado!");
+                throw new Exception("Usuário não encontrado!");
 
             usuario.Email = dto.Email;
             usuario.Telefone = dto.Telefone;
             usuario.Nome = dto.Nome;
-            usuario.Senha = dto.Senha;
+            usuario.Pontos = dto.Pontos;
+
+
+            if (!string.IsNullOrWhiteSpace(dto.Senha))
+            {
+                usuario.Senha = dto.Senha; 
+            }
 
             await _usuarioRepository.AtualizarUsuario(usuario);
         }
+
 
         public async Task DeletarUsuario(string id)
         {

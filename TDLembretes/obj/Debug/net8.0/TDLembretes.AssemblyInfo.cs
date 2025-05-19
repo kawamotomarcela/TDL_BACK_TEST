@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TDLembretes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8c40481dc2dde39f74c9887d1f5a80fa5945599b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e68406c1d3d21575f012a9c229fd9bf5f115e935")]
 [assembly: System.Reflection.AssemblyProductAttribute("TDLembretes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TDLembretes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
